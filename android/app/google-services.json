@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "717070860607",
+    "project_id": "fir-flutter-codelab-62405",
+    "storage_bucket": "fir-flutter-codelab-62405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717070860607:android:5442d2b18ba6c134f2938a",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717070860607-al1uoro38tnpod130n6avqschdbcuqfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbsYqrBOm-g87Vwymr9N-5mrbXSNYzDF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717070860607-al1uoro38tnpod130n6avqschdbcuqfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "717070860607-4fa2r4tcb51lk1pausv75cuvca1g4537.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gtkFlutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717070860607:android:166e2d12648be6c0f2938a",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717070860607-al1uoro38tnpod130n6avqschdbcuqfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbsYqrBOm-g87Vwymr9N-5mrbXSNYzDF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717070860607-al1uoro38tnpod130n6avqschdbcuqfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "717070860607-4fa2r4tcb51lk1pausv75cuvca1g4537.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gtkFlutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717070860607:android:12d31b56b1fbc745f2938a",
+        "android_client_info": {
+          "package_name": "com.example.the_churche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717070860607-al1uoro38tnpod130n6avqschdbcuqfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbsYqrBOm-g87Vwymr9N-5mrbXSNYzDF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717070860607-al1uoro38tnpod130n6avqschdbcuqfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "717070860607-4fa2r4tcb51lk1pausv75cuvca1g4537.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gtkFlutter.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
